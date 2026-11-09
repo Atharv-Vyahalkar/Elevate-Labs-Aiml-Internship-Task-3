@@ -89,9 +89,6 @@ cd Elevate-Labs-Aiml-Internship-Task-3
 ```
 
 **3. Install dependencies**
-```bash
-pip install -r requirements.txt
-```
 
 **4. Launch Jupyter Notebook**
 ```bash
